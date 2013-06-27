@@ -1,0 +1,310 @@
+#contentCol1 {
+float:left;
+width:310px;
+}
+
+#contentCol1 a {
+color:#0078be;
+font-size:13px;
+text-decoration:underline;
+}
+
+#contentCol1 p {
+font-size:14px;
+font-weight:400;
+line-height:21px;
+text-align: left;
+width:290px;
+}
+
+#contentCol2 {
+float:left;
+margin-left:10px;
+width:330px;
+}
+
+#contentCol2 a {
+color:#0078be;
+font-size:13px;
+font-weight:700;
+}
+
+#contentCol3 {
+float:right;
+width:300px;
+}
+
+#contentContainer {
+height:570px;
+margin: 0 auto;
+width:1000px;
+}
+
+#contentContainer #contentCol2 hr {
+background-color:#ecf1f4;
+border-width:0;
+height:2px;
+margin-left:0;
+margin-top:12px;
+width:100%;
+}
+
+#contentContainer #contentCol2 hr:nth-child(2) {
+margin-top:-5px;
+}
+
+#contentContainer hr {
+background-color:#ecf1f4;
+border-width:0;
+height:2px;
+margin-left:0;
+margin-top:-5px;
+width:90%;
+}
+
+#contentStatement {
+font-size:24px;
+font-style:oblique;
+text-align:center;
+}
+
+#footerCareersLink,#footerContactLink {
+margin-right:75px;
+}
+
+#footerCopy {
+bottom:0;
+font-size:11px;
+padding-right:10px;
+position:absolute;
+right:0;
+}
+
+#footerItem11,#footerItem21,#footerItem31 {
+color:#2e4a5a;
+font-weight:700;
+margin-top:10px;
+margin-bottom: 5px;
+}
+
+#footerNewsLink,#footerCareersLink,#footerContactLink {
+color:#2e4a5a;
+float:right;
+font-weight:700;
+margin-top:10px;
+}
+
+#footerNewsLink {
+  margin-right: 5px;
+}
+
+#footerWrap {
+background-color:#edf4f8;
+width:100%;
+}
+
+#headerBtn {
+background-color:#2e4a5a;
+border-radius:3px;
+float:right;
+height:25px;
+margin-left:25px;
+margin-top:6px;
+width:70px;
+}
+
+#headerBtn a {
+color:#fff;
+font-size:16px;
+font-weight:700;
+line-height:25px;
+margin-left:12px;
+}
+
+#headerLinkCareers {
+color:#2e4a5a;
+float:right;
+font-size:16px;
+line-height:37px;
+margin-left:20px;
+}
+
+#headerLinkNews {
+color:#2e4a5a;
+float:right;
+font-size:16px;
+line-height:37px;
+}
+
+#headerPhoneEur {
+color:#0b7abf;
+float:left;
+font-size:17px;
+font-weight:700;
+line-height:37px;
+margin-left:32px;
+}
+
+#headerPhoneUS {
+color:#0b7abf;
+float:left;
+font-size:17px;
+font-weight:700;
+line-height:37px;
+}
+
+#headerWrap {
+background-color:#f0f6f9;
+height:38px;
+width:100%;
+}
+
+#marketBg {
+background-color:#4b616f;
+left:680px;
+position:absolute;
+text-align:center;
+top:330px;
+width:280px;
+color:#fff;
+font-size:24px;
+font-weight:700;
+line-height:40px;
+display: block;
+}
+
+
+#marketContainer {
+height:496px;
+margin:0 auto;
+position:relative;
+width:1000px;
+}
+#marketNav #marketFirstLink {
+  font-weight: 700;
+}
+#marketNav #marketLastLink{
+  margin-right: 0;
+}
+#marketNav {
+  height: 32px;
+  width: 1000px;
+  position: absolute;
+  bottom: 0;
+}
+
+#marketNav a {
+  line-height: 32px;
+  float: left;
+  color: #fff;
+  font-size: 12px;
+  margin-right: 56px;
+}
+
+
+#marketWrap {
+background-image:url(../img/img.jpg);
+background-position:center;
+background-repeat:no-repeat;
+height:496px;
+width:100%;
+}
+
+#navWrap {
+height:82px;
+line-height:42px;
+width:100%;
+}
+
+.clearLeft {
+clear:left;
+}
+
+.smallTxt {
+color:#999;
+font-size:12px;
+}
+
+.topMarginAdjust {
+margin-top:-12px;
+}
+
+.topMarginAdjust5 {
+margin-top:-5px;
+}
+
+a:link {
+color:#2e4a5a;
+text-decoration:none;
+}
+
+a:visited {
+color:#2e4a5a;
+}
+
+footer {
+background-color:#edf4f8;
+color:#6a7b85;
+font-size:13px;
+height:197px;
+line-height:25px;
+margin:0 auto;
+position:relative;
+width:1000px;
+}
+
+footer #col1 a,footer #col2 a,footer #col3 a {
+color:#6a7b85;
+}
+
+footer #col1,footer #col2,footer #col3 {
+float:left;
+}
+
+footer li {
+list-style:none;
+}
+
+footer ul {
+margin-left:-40px;
+margin-right:45px;
+}
+
+header {
+display:block;
+height:38px;
+margin:0 auto;
+width:1000px;
+}
+
+html {
+color:#2d4959;
+font-family:arial, helvetica, sans-serif;
+}
+
+nav {
+height:82px;
+margin:0 auto;
+width:1000px;
+}
+
+nav #logo {
+margin-top:17px;
+}
+
+nav ul {
+float:right;
+}
+
+nav ul li {
+float:left;
+list-style:none;
+margin-left:24px;
+margin-top:5px;
+}
+
+nav ul li a {
+font-size:17px;
+font-weight:700;
+}
+
